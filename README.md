@@ -1,3 +1,8 @@
+
+
+<img width="1278" height="719" alt="Screenshot 2025-01-23 182453" src="https://github.com/user-attachments/assets/cb6ecfa7-6996-4bd6-8193-b059c18e2334" />
+
+
 # Vrinda-Store-Data-Analysis
 
 Here's a sample data for data analysis
